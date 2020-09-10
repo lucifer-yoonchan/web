@@ -1,0 +1,51 @@
+body {
+    background-color: #8390FA;
+}
+.d1 {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: azure;
+    width: 65%;
+    background-color: darkorchid;
+    text-align: left;
+    padding: 20px 40px 50px 50px;
+    margin: 50px 0px 50px 0px;
+    border-radius: 30px;
+}
+.title{
+    color: floralwhite;
+}
+
+.text {
+    font-size: 28xp;
+    line-height: 1.5;
+}
+.d2 {
+    background-color: ghostwhite;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: indigo;
+    width: 90%;
+    padding: 30px;
+    margin: 50px 0px 100px 0px;
+    border-radius: 70px;
+}
+.d3{
+    background-color: lightskyblue;
+    width: 550px;
+    height: 300px;
+    background-image: url(./01.jfif);
+    background-size: contain;
+    background-position: center;
+}
+.d4{
+    background-color: lightyellow;
+    width: 550px;
+    height: 500px;
+    background-image: url(./02.jfif);
+    background-size: inherit;
+    background-position: top;
+    border-radius: 25px;
+    margin-top: 50px;
+}
+.l1 {
+    color: navy;
+}
